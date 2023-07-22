@@ -2,6 +2,8 @@ Zeel is a fourth-year Ph.D. student in Computer Science and Engineering at <a st
 
 #### Website: [patel-zeel.github.io](https://patel-zeel.github.io/)
 
+#### Last updated: 22nd Jul 2023
+
 #### GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=patel-zeel&count_private=true&show_icons=true&theme=radical" />
